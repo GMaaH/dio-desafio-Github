@@ -1,0 +1,30 @@
+
+Alguns dos comandos básicos do Git
+
+Criando um novo repositório:
+git init
+
+Copiando um repositório:
+git clone /caminho do repositorio
+
+Para ver o status do repositório:
+git status 
+
+Adicionando mudanças:
+git add <nome do arquivo> ou git add * <para salvar tudo>
+
+Confirmando uma mudança:
+git commit -m "comentários das alterações"
+
+Enviando para o repositório remoto:
+git push origin master
+
+
+
+
+
+
+
+
+Fonte:https://rogerdudler.github.io/git-guide/index.pt_BR.html
+
