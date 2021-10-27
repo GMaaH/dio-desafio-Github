@@ -1,2 +1,6 @@
 # Dio Desafio Git GitHub :hugs:
 - Desafio para criar um repositório da DIO - Git/GitHub 
+- Inclusão de Códigos Básicos do Git
+- Inclusão de Códigos Básicos de Markdown
+
+_ Tudo Feito de Forma Local! :star_struck:
