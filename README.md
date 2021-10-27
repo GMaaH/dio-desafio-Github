@@ -3,4 +3,4 @@
 - Inclusão de Códigos Básicos do Git
 - Inclusão de Códigos Básicos de Markdown
 
-_ Tudo Feito de Forma Local! :star_struck:
+_Tudo Feito de Forma Local! :star_struck:
